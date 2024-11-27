@@ -92,7 +92,7 @@ A full-stack application designed for bulk ordering of vegetables and fruits, st
 
 ---
 
-
+--some screenshots are attached--
 <img width="898" alt="Screenshot 2024-11-27 143849" src="https://github.com/user-attachments/assets/7a44e7da-8d4e-4f99-8df3-fa0a67bfe7df"> <br>
 
 ---make sure to login before accessing admin dashboard---
