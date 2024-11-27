@@ -8,7 +8,7 @@ A full-stack application designed for bulk ordering of vegetables and fruits, st
 
 - **User Authentication**:  
   - Secure sign-up and log-in functionality.  
-  - Role-based access for admin and customers.
+  - Role-based access for admin and customers.(currently only for admin)
 
 - **Product Browsing**:  
   - View a catalog of vegetables and fruits.  
@@ -92,9 +92,9 @@ A full-stack application designed for bulk ordering of vegetables and fruits, st
 
 ---
 
-### Installation (Local Setup)
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/bulk-veg-fruit-order-app.git
-   cd bulk-veg-fruit-order-app
+<img width="898" alt="Screenshot 2024-11-27 143849" src="https://github.com/user-attachments/assets/7a44e7da-8d4e-4f99-8df3-fa0a67bfe7df"> <br>
+
+---make sure to login before accessing admin dashboard---
+<img width="803" alt="Screenshot 2024-11-27 144051" src="https://github.com/user-attachments/assets/6f341f79-951b-4dc0-9333-7faf025a28c8">
+
