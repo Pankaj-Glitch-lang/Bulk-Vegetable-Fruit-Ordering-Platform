@@ -32,7 +32,7 @@ A full-stack application designed for bulk ordering of vegetables and fruits, st
 
 ### Frontend:
 - [React.js](https://reactjs.org/)  
--
+- CSS, Javascript
 - [React Router](https://reactrouter.com/)  
 
 ### Backend:
@@ -40,7 +40,7 @@ A full-stack application designed for bulk ordering of vegetables and fruits, st
 - [Express.js](https://expressjs.com/)  
 - [MongoDB](https://www.mongodb.com/)
 - [Mongodb atlas] for global server
-
+- Javascript
 ---
 
 ## 📂 Project Structure
